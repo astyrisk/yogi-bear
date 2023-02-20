@@ -1,0 +1,7 @@
+#+title: Notes
+
+
+* general
+** collects all the picnic baskets in a park
+** park contains mountains and trees - obstacles
+** RANGERS - move horizontally or vertically, if it gets close one unit, he loses a life. spwaning at the entrance of the park
